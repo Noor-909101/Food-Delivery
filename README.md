@@ -18,8 +18,6 @@ Database
 Others
 - Socket.io
 - Passport
-## ER DIAGRAM
-![er](https://user-images.githubusercontent.com/53612882/170892171-f19568cd-4b20-4758-936e-390e1798c0c9.png)
 ## USER DFD
 ![userdfd](https://user-images.githubusercontent.com/53612882/170892290-071abec5-27f4-4462-ad32-e59885793fd8.png)
 ## ADMIN DFD
